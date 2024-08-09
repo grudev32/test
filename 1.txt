@@ -1,3 +1,4 @@
 add hello
 add pull
 add pull again
+add close
